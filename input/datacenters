@@ -1,8 +1,18 @@
 us-east-1;Virginia;38.13;-78.45
+us-east-2;Ohio;39.96;-83.00
 us-west-1;California;41.48;-120.53
 us-west-2;Oregon;46.15;-123.88
-eu-west-1;Ireland;53;-8
-sa-east-1;Sao Paulo;-23.34;-46.38
+us-govcloud;Idaho;43.60;-116.23
+ca-central-1;Central;43.68;-79.42
+ap-south-1;Mumbai;19.12;72.85
+ap-northeast-2;Seoul;37.55;126.99
 ap-southeast-1;Singapore;1.37;103.8
 ap-southeast-2;Sydney;-33.86;151.2
 ap-northeast-1;Tokyo;35.41;139.42
+cn-central-1;Beijing;39.90;116.38
+cn-central-2;Bayan Nur;40.75;107.38
+eu-central-1;Frankfurt;50.10;8.67
+eu-central-2;Paris;48.85;2.37
+eu-west-1;Ireland;53;-8
+eu-west-2;London;51.51;-0.112
+sa-east-1;Sao Paulo;-23.34;-46.38
