@@ -133,11 +133,11 @@ def main():
         code, name, lat, lon = line.rstrip().split(";")
         entries.add_datacenter(code, name, float(lat), float(lon))
 
-    for filepath in ("input/countries", "input/usa"):
-        tag = os.path.basename(filepath)
-        for line in file(filepath).readlines():
-            code, name, lat, lon = line.rstrip().split(";")
-            entries.add_entry(code, name, float(lat), float(lon), tag)
+#    for filepath in ("input/countries", "input/usa"):
+#        tag = os.path.basename(filepath)
+#        for line in file(filepath).readlines():
+#            code, name, lat, lon = line.rstrip().split(";")
+#            entries.add_entry(code, name, float(lat), float(lon), tag)
 
     for line in file("input/overrides").readlines():
         code, tag, name, datacenter = line.rstrip().split(";")
