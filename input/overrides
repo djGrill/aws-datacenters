@@ -1,22 +1,22 @@
 O1;countries;Other Country;us-east-1
 A1;countries;Anonymous Proxy;us-east-1
 A2;countries;Satellite Provider;us-east-1
-AX;countries;Aland Islands;eu-west-1
-GG;countries;Guernsey;eu-west-1
-IM;countries;Isle of Man;eu-west-1
-JE;countries;Jersey;eu-west-1
+AX;countries;Aland Islands;eu-west-2
+GG;countries;Guernsey;eu-west-2
+IM;countries;Isle of Man;eu-west-2
+JE;countries;Jersey;eu-west-2
 PN;countries;Pitcairn;us-west-1
-TL;countries;Timor-Leste;ap-southeast-1
-AO;countries;Angola;eu-west-1
-ZM;countries;Zambia;eu-west-1
-NA;countries;Namibia;eu-west-1
-BW;countries;Botswana;eu-west-1
-ZW;countries;Zimbabwe;eu-west-1
-SZ;countries;Swaziland;ap-southeast-1
-LS;countries;Lesotho;ap-southeast-1
-ZA;countries;South Africa;ap-southeast-1
-VE;countries;Venezuela;sa-east-1
-CO;countries;Colombia;sa-east-1
+TL;countries;Timor-Leste;ap-southeast-2
+AO;countries;Angola;eu-west-2
+ZM;countries;Zambia;eu-west-2
+NA;countries;Namibia;eu-west-2
+BW;countries;Botswana;eu-west-2
+ZW;countries;Zimbabwe;eu-west-2
+SZ;countries;Swaziland;ap-southeast-2
+LS;countries;Lesotho;ap-southeast-2
+ZA;countries;South Africa;ap-southeast-2
+VE;countries;Venezuela;us-east-1
+CO;countries;Colombia;us-east-1
 AA;usa;Armed Forces Americas;us-east-1
 AE;usa;Armed Forces Europe, Middle East, & Canada;us-east-1
 AP;usa;Armed Forces Pacific;us-east-1
